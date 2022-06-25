@@ -1,8 +1,9 @@
 # Recipes
 ## Pour Over
-Ratio: `60g/L`
-Steeping:
-- 30 second (bloom, pour 2x amount of water for weight of grounds)
+Ratio: `60g/L`  
+Steeping:  
+- 30 second (bloom, pour 2x amount of water for weight of grounds)  
+
 | Coffee | Water |
 |---|---|
 | 12g | 200ml |
@@ -11,20 +12,22 @@ Steeping:
 | 30g | 500ml |
 
 ## Aeropress
-Ratio: `75g/L`
-Steeping: 
-- 2 minutes
+Ratio: `75g/L`  
+Steeping:   
+- 2 minutes  
+
 | Coffee | Water |
 |---|---|
 | 15g | 200ml |
 | 30g | 400ml (brew 200ml then dillute with hot water)
 
 ## French Press
-Ratio: `70g/L`
-Steeping:
+Ratio: `70g/L`  
+Steeping:  
 - 4 minutes after pour
 - stir and remove floating foam/grounds
 - 5 minutes
+
 | Coffee | Water |
 |---|---|
 | 14g | 200ml |
