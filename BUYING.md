@@ -34,6 +34,7 @@ _* Favourites_
 
 ### Edmonton
 - __*__ https://www.roguewavecoffee.ca/
+- https://sorellina.ca/
 
 ### BC
 - https://enjoylunacoffee.com/ (Langley)
