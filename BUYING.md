@@ -2,7 +2,7 @@
 _* Favourites_
 ## Local
 ### Toronto 
-- __*__ https://hellodemello.com/
+- https://hellodemello.com/__*__
 - https://www.propellercoffee.com/
 - https://outpostcoffee.com/
 - https://www.pilotcoffeeroasters.com/
