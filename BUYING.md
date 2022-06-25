@@ -31,6 +31,7 @@ _* Favourites_
 ### Calgary
 - __*__ https://philsebastian.com/
 - https://monogramcoffee.com/
+- https://www.rossocoffeeroasters.com/
 
 ### Edmonton
 - __*__ https://www.roguewavecoffee.ca/
