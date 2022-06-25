@@ -34,3 +34,13 @@ Steeping:
 | 22g | 333ml |
 | 28g | 400ml |
 | 35g | 500ml |
+
+## Iced
+### Iced Aeropress
+https://monogramcoffee.com/blogs/news/iced-aeropress-april-rename?_pos=1&_sid=25b379a35&_ss=r
+
+Kenyan
+150g ice
+130g water
+20g coffee (medium grind)
+1:10 steep time
