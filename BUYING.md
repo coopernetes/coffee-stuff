@@ -5,9 +5,9 @@ _* Favourites_
 - https://hellodemello.com/__*__
 - https://www.propellercoffee.com/
 - https://outpostcoffee.com/
+- https://www.thelibraryspecialtycoffee.com/
 - https://www.pilotcoffeeroasters.com/
 - https://dispatchcoffee.ca/
-- https://strangelovecafe.com/
 
 ### Oakville
 - https://reunioncoffeeroasters.com/
@@ -51,6 +51,7 @@ _* Favourites_
 ## Local
 Toronto
 - https://www.darkhorseespresso.com/
+- https://strangelovecafe.com/
 
 Bowmanville
 - https://www.roamcoffee.ca/
